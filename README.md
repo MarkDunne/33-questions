@@ -8,9 +8,11 @@ We could give everybody on the planet a unique series of 33 1s and 0s, and ident
 What if, instead assigning 1s and 0s, we had 33 'Yes' or 'No' general questions that, when answered correctly, uniquely identified everyone on the planet. Does this set of questions exist and if they do, what are they? The aim of this project is to answer those questions.
 
 The perfect set of questions will be notoriously difficult to produce. Every question will have to almost exactly divide the population between 'Yes' and 'No', as well as being completely independent of all other questions.
-(technically, we can ask *conditional* questions such as, *"Are you below the median age given your gender?"*.
+
+(technically, we can ask *conditional* questions such as, "Are you below the median age *given* your gender?".
 in such a scenario, we still have 20 questions, they are not independent, rather, the sequence matters,
-yet, which each subsequent question, the population is divided by an additional factor of 2.)
+yet, with each subsequent question, the population is divided by an additional factor of 2,
+so we still only need 20 questions.)
 
 
 As an example, having both the questions *"Are you male?"* and *"Are you below the median age?"* will not work because there are more females above the median age than men. Separately they might divide the population, but together they will not split the population into 4 group of 25% as required.
