@@ -19,4 +19,9 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Were you born in the first half of the year? (Jan - Jun)
+4. Were your father born in the first half of the year? (Jan - Jun)
+5. Were your mother born in the first half of the year? (Jan - Jun)
+6. Were your grandfather born in the first half of the year? (Jan - Jun)
+7. Were your grandmother born in the first half of the year? (Jan - Jun)
+8. ...
