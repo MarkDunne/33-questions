@@ -20,4 +20,4 @@ The Questions (open to debate)
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
 3. Were you born in the northern hemisphere?
-4. 
+4. Are you alive?
