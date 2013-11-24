@@ -19,5 +19,5 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan?
-3. Ss the number of days between your January 1, 1900 and your birthday an even number?
+3. Is the number of days between your January 1, 1900 and your birthday an even number?
 4. ...
