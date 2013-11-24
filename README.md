@@ -19,4 +19,4 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. What is your education level? Below high school, High school, Bachelor's, Master's, Doctorate
+3. Is your education above high school?
