@@ -19,4 +19,6 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Was your country ever ruled by the British Empire?
+4. Does your country produce Coffee?
+5. ...
