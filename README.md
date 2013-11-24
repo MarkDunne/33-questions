@@ -19,4 +19,5 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Are you able to read or write?
+4. Do you have any education past high-school?
