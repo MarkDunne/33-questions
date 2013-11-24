@@ -19,4 +19,8 @@ The Questions (open to debate)
 
 1. Are you male?
 2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Are you part of the wealthier half of your country?
+4. Can you see fine without glasses or contacts?
+5. Does your first name start with A-M?
+6. Does you last name start with A-M?
+7. ...
