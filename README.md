@@ -18,4 +18,5 @@ The Questions (open to debate)
 ========================
 
 1. Are you male?
-2. ...
+2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
+3. ...
