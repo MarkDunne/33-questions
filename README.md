@@ -19,4 +19,4 @@ The Questions (open to debate)
 
 1. Are you male?
 1. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-1. ...
+1. Were you born within 50 miles of the ocean?
