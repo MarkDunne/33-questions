@@ -20,3 +20,4 @@ The Questions (open to debate)
 1. Do you identify yourself as male?
 2. Do you currently live in one of the following countries: China, India, The United States, Indonesia, Brazil or Pakistan? 
 3. ...
+4. Are you 15–64 years old? (rationale: 65.9% of world population. http://en.wikipedia.org/wiki/Demographics_of_the_world)
