@@ -19,4 +19,4 @@ The Questions (open to debate)
 
 1. Do you identify yourself as male?
 2. Do you currently live in one of the following countries: China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Do you belive in existence of God?
