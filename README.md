@@ -17,6 +17,9 @@ To contribute to the project, open up a pull request and add your question to th
 The Questions (open to debate)
 ========================
 
-1. Are you male?
-2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+1. Are you  male? (split pop in two)
+2. Do you live above the equator? (countries can change equator "never" changes (amost split pop in two))
+3. Do you live atbove or at the average elevation?
+4. if male are you taller than (male average) else then are you above (non-male average)
+5. if male are you older than (male average age) else then are you older than (non-male average age)
+6. ...
