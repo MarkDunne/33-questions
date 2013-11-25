@@ -9,7 +9,7 @@ What if, instead assigning 1s and 0s, we had 33 'Yes' or 'No' general questions 
 
 The perfect set of questions will be notoriously difficult to produce. Every question will have to almost exactly divide the population between 'Yes' and 'No', as well as being completely independent of all other questions.
 
-As an example, having the questions *"Are you male?"* and *"Are you below the median age?"* will not work because there are more females above the median age than men.
+As an example, having both the questions *"Are you male?"* and *"Are you below the median age?"* will not work because there are more females above the median age than men. Separately they might divide the population, but together they will not split the population into 4 group of 25% as required.
 
 
 To contribute to the project, open up a pull request and add your question to the list below. All questions are open to debate and discussion.
