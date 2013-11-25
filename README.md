@@ -17,6 +17,4 @@ To contribute to the project, open up a pull request and add your question to th
 The Questions (open to debate)
 ========================
 
-1. Are you male?
-2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+1. Can you see the individual stars in the night sky from your home or yard?
