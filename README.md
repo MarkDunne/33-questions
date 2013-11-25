@@ -19,4 +19,4 @@ The Questions (open to debate)
 
 1. Do you identify yourself as male?
 2. Do you currently live in one of the following countries: China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+3. Did your parent practiced Cristianity or Islam (rationale: almost a 50% of world population do.  IMO is simpler to answer this instead of your current affiliation wich could be complex. also http://en.wikipedia.org/wiki/Demographics_of_the_world)
