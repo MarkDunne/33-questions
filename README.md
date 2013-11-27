@@ -1,7 +1,7 @@
 33 Questions
 ============
 
-There are a little over 7 billion people in the world. That's about ![2^33](http://www.sciweavers.org/upload/Tex2Img_1385242834/eqn.png) people.
+There are a little over 7 billion people in the world. That's about ![2^33](http://www3.wolframalpha.com/Calculate/MSP/MSP5037202ec41fhde26781000029eb467dagif7idf?MSPStoreType=image/gif&s=16&w=21.&h=18.) people.
 
 We could give everybody on the planet a unique series of 33 1s and 0s, and identify anyone by their personal series. But that would be boring.
 
