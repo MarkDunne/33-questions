@@ -5,7 +5,7 @@ There are a little over 7 billion people in the world. That's about ![2^33](http
 
 We could give everybody on the planet a unique series of 33 1s and 0s, and identify anyone by their personal series. But that would be boring.
 
-What if, instead assigning 1s and 0s, we had 33 'Yes' or 'No' general questions that, when answered correctly, uniquely identified everyone on the planet. Does this set of questions exist and if they do, what are they? The aim of this project is to answer those questions.
+What if, instead assigning 1s and 0s, we had 33 'Yes' or 'No' general questions that, when answered correctly, uniquely identified everyone on the planet. Does this set of questions exist and if they do, what are they? The aim of this project is to answer those questions. (and of course, we may end with a set of more than 33 questions, for example, because it's difficult to find questions that divide population exclusively in two halfs and so on. but our intent is to do our best to reduce that set)
 
 The perfect set of questions will be notoriously difficult to produce. Every question will have to almost exactly divide the population between 'Yes' and 'No', as well as being completely independent of all other questions.
 
